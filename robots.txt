@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://slz-ai.github.io/sitemap.xml
